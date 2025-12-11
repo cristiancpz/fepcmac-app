@@ -1,0 +1,17 @@
+{
+  "expo": {
+    "name": "FEPCMAC Wallet",
+    "slug": "fepcmac-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "backgroundColor": "#ffffff"
+    },
+    "android": {
+      "package": "com.fepcmac.wallet",
+      "versionCode": 1,
+      "permissions": []
+    }
+  }
+}
